@@ -3,7 +3,7 @@ A Library Management System using Netbeans
 
 LibraSync is a modern library management system that streamlines resource organization, synchronizes data, and enhances user experience. It uses advanced technologies for book cataloging, book borrowing, and resource tracking.
 
-------------------------------------------------------------------------------------------------------------
+---------
 
 Below are snippets of the actual software application.
 
