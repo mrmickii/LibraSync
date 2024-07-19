@@ -5,7 +5,7 @@ LibraSync is a modern library management system that streamlines resource organi
 
 ---------
 
-Below are snippets of the actual software application.
+Below are snippets of the application.
 
 ### (1) Landing Page
 ![1](https://github.com/mrmickii/LibraSync/assets/89602094/563d5c93-8341-4acc-9832-38a43f8bb567)
